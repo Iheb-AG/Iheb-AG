@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 I’m currently a software engineering student<br>🌱 I’m currently learning : AI | React<br>💬 Ask me about : Linux , Web , C , Problem solving , ...<br>⚡ Fun fact : I'm team pinguin 🐧
+### 🔭 I’m currently a embedded systems and IOT student at Higher institute of Computer Science ISI<br>🌱 I’m currently learning : AI | React<br>💬 Ask me about : Linux , Web , C , Problem solving , ...<br>⚡ Fun fact : I'm team pinguin 🐧
 
 
 ## 🌐 Socials:
